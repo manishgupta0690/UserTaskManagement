@@ -1,0 +1,13 @@
+com\user\UserManagement\UserManagementApplication.class
+com\user\UserManagement\userRepository\UserRepository.class
+com\user\UserManagement\security\SecurityConfiguration.class
+com\user\UserManagement\Controller\TaskController.class
+com\user\UserManagement\taskService\TaskServiceImpl.class
+com\user\UserManagement\userService\MyUserDetailsService.class
+com\user\UserManagement\repository\TaskRepository.class
+com\user\UserManagement\model\MyUserDetails.class
+com\user\UserManagement\Controller\UserController.class
+com\user\UserManagement\model\UserTask.class
+com\user\UserManagement\taskService\TaskService.class
+com\user\UserManagement\model\User.class
+com\user\UserManagement\ServletInitializer.class
