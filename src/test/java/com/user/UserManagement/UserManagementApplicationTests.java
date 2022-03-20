@@ -9,5 +9,13 @@ class UserManagementApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void contextLoads3() {
+	}
+	
+	@Test
+	void contextLoads4() {
+	}
 
 }
