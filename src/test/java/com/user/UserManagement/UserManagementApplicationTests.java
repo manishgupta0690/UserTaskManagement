@@ -26,4 +26,34 @@ class UserManagementApplicationTests {
 	void contextLoads2() {
 	}
 
+	@Test
+	void contextLoads5() {
+	}
+
+	@Test
+	void contextLoads6() {
+	}
+
+	@Test
+	void contextLoads7() {
+	}
+
+	@Test
+	void contextLoads8() {
+
+
+
+
+
+
+
+
+
+		//commet
+
+
+		//commet
+
+	}
+
 }
