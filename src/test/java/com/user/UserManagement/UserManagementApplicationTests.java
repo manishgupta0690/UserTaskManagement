@@ -9,5 +9,10 @@ class UserManagementApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
+	@Test
+	void bugFix() {
+		//This is bug fix
+	}
 	
 }
