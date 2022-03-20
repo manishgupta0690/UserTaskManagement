@@ -25,6 +25,8 @@ class UserManagementApplicationTests {
 	@Test
 	void bugFix() {
 		//This is bug fix
+		//fixing bug
 	}
+	
 
 }
