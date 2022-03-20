@@ -11,8 +11,20 @@ class UserManagementApplicationTests {
 	}
 
 	@Test
+	void feature1() {
+		//This is feature1
+	}
+
+	@Test
+	void feature2() {
+		//This is feature2
+	}
+
+
+
+	@Test
 	void bugFix() {
 		//This is bug fix
 	}
-	
+
 }
