@@ -19,11 +19,14 @@ class UserManagementApplicationTests {
 	void feature2() {
 		//This is feature2
 	}
-
-
-
+	
 	@Test
 	void bugFix() {
+		//This is bug fix
+	}
+
+	@Test
+	void mainBranch() {
 		//This is bug fix
 	}
 
