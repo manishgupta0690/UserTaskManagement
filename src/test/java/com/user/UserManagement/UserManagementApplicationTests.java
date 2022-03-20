@@ -23,7 +23,9 @@ class UserManagementApplicationTests {
 	@Test
 	void bugFix() {
 		//This is bug fix
+		//fixing bug
 	}
+	
 
 	@Test
 	void mainBranch() {
