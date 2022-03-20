@@ -19,11 +19,27 @@ class UserManagementApplicationTests {
 	}
 
 	@Test
-	void contextLoads1() {
+	void contextLoads11() {
 	}
 
 	@Test
-	void contextLoads2() {
+	void contextLoads12() {
+	}
+	
+	@Test
+	void contextLoads13() {
+	}
+	
+	@Test
+	void contextLoads14() {
+	}
+
+	@Test
+	void contextLoads51() {
+	}
+
+	@Test
+	void contextLoads23() {
 	}
 
 }
